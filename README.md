@@ -1,6 +1,3 @@
-# Mary's First submission
+# Research Associate Mary Page Written Exam
 ___
-~Just~
-> "People" 
-* Item 1 <br>
-* **Item** 2
+* [Another FBI Investigation Of Seth Williams Now Focusing On His Second Chance Foundation] (https://www.politicspa.com/fbi-investigation-of-seth-williams-expands/78079/) "FBI Investigation of Seth Williams Expands"
