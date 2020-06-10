@@ -2,5 +2,5 @@
 ___
 ~Just~
 > "People" 
-* Item 1
+* Item 1 <br>
 **Item 2
